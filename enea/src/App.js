@@ -14,10 +14,10 @@ import Format from './Format';
 function App() {
   return (
     <div className="App">
-      <h1>sedbf</h1>
+      <Navi/>
       <Format/>
    
-     {/* <Navi/> */}
+   
      {/* <Event/> */}
       {/* <MainComp/>
       <CardComp/> */}

@@ -3,7 +3,7 @@ import axios from "axios";
 import React from "react";
 import { Form, Button, Row, Col } from "react-bootstrap";
 import UseEffect from "./UseEffect";
-import './Format.css'
+// import './Format.css'
 
 const Format = () => {
   // const [emri, setEmri] = useState("");
